@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Resource Definitions//EN" "http://glassfish.org/dtds/glassfish-resources_1_5.dtd">
+<resources>
+
+    <jdbc-connection-pool name="jdbc/mysqlPool"
+                          res-type="javax.sql.DataSource"
+                          datasource-classname="com.mysql.cj.jdbc.MysqlDataSource"
+                          pool-resize-quantity="2"
+                          max-pool-size="32"
+                          steady-pool-size="8">             
+        
+        <property name="User" value="root"/>
+        <property name="Password" value="root"/>
+        <property name="UseSSL" value="false"/>
+        <property name="PortNumber" value="3306"/>
+        <property name="ServerName" value="localhost"/>
+        <property name="DatabaseName" value="emp_db"/>
+    </jdbc-connection-pool>
+ 
+    <jdbc-resource enabled="true" jndi-name="jdbc/mysql" object-type="user" pool-name="jdbc/mysqlPool"/>
+ 
+</resources>
+ 
