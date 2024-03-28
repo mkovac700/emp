@@ -15,7 +15,7 @@
   <p align="center">
     Jednostavna Java web aplikacija koja implementira sustav dvostruke prijave upotrebom Google Authenticatora
     <br /> 
-    <a href="https://nastava.foi.hr/course/93149"><strong>Saznajte više »</strong></a>
+    <a href="https://nastava.foi.hr/course/93120"><strong>Saznajte više »</strong></a>
     <br />
 
   </p>
