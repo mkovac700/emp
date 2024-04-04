@@ -78,7 +78,7 @@ odnosno drugi korak u postupku njegove prijave.
 Na slici je moguće vidjeti dizajn sustava ove aplikacije. <br><br>
 
 <div align="center">
-  <a href="./emp_projekt/images/dizajn_sustava.png"><img alt="dz3_dijagram" src="./emp_projekt/images/dizajn_sustava.png" width=600></a>
+  <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/dizajn_sustava.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/dizajn_sustava.png" width=600></a>
 </div>
 
 <br>
@@ -90,7 +90,7 @@ za korisnika, koji služi kao sjeme (eng. seed) za generiranje jednokratnih lozi
 Izgled tablice:
 
 <div align="center">
-  <a href="./emp_projekt/images/Picture6.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Picture6.png"></a>
+  <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture6.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture6.png"></a>
 </div>
 
 <br>
@@ -370,13 +370,13 @@ Za pokretanje rješenja bit će vam potrebno sljedeće:
       * Kliknite na `New` te unesite kako slijedi:
 
       <div align="center">
-        <a href="./emp_projekt/images/Screenshot_4.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Screenshot_4.png"></a>
+        <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_4.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_4.png"></a>
       </div>
 
       <br>
 
       <div align="center">
-        <a href="./emp_projekt/images/Screenshot_5.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Screenshot_5.png"></a>
+        <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_5.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_5.png"></a>
       </div>
 
       <br>
@@ -392,7 +392,7 @@ Za pokretanje rješenja bit će vam potrebno sljedeće:
       * Kliknite na `New` te unesite kako slijedi:
 
       <div align="center">
-        <a href="./emp_projekt/images/Screenshot_6.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Screenshot_6.png"></a>
+        <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_6.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_6.png"></a>
       </div>
 
     <br>
@@ -426,7 +426,7 @@ Za pokretanje rješenja bit će vam potrebno sljedeće:
   * Provjeriti je li aplikacija isporučena na Payara server (`Payara Console > Applications`)
 
     <div align="center">
-      <a href="./emp_projekt/images/Screenshot_7.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Screenshot_7.png"></a>
+      <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_7.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Screenshot_7.png"></a>
     </div>
     <br>
 
@@ -437,13 +437,13 @@ Za pokretanje rješenja bit će vam potrebno sljedeće:
 * Početna stranica:
 
   <div align="center">
-    <a href="./emp_projekt/images/Picture7.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Picture7.png"></a>
+    <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture7.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture7.png"></a>
   </div>
 
 * Registracija korisnika s uputama za postavljanje Google Authenticatora:
 
   <div align="center">
-    <a href="./emp_projekt/images/Picture2.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Picture2.png"></a>
+    <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture2.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture2.png"></a>
   </div>
 
   👉🏽 Sigurnosni ključ se nasumično generira svakim ponovnim učitavanjem stranice
@@ -453,19 +453,19 @@ Za pokretanje rješenja bit će vam potrebno sljedeće:
 * Google Authenticator i TOTP:
 
   <div align="center">
-    <a href="./emp_projekt/images/20230525_203104.jpg"><img alt="dz3_dijagram" src="./emp_projekt/images/20230525_203104.jpg" width=300></a>
+    <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/20230525_203104.jpg"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/20230525_203104.jpg" width=300></a>
   </div>
 
 * Prijava korisnika s trenutnim TOTP:
 
   <div align="center">
-    <a href="./emp_projekt/images/Picture3.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Picture3.png"></a>
+    <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture3.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture3.png"></a>
   </div>
 
 * Pokušaj prijave s pogrešnim TOTP:
 
   <div align="center">
-    <a href="./emp_projekt/images/Picture4.png"><img alt="dz3_dijagram" src="./emp_projekt/images/Picture4.png"></a>
+    <a href="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture4.png"><img alt="emp" src="https://raw.githubusercontent.com/mkovac700/emp/docs/emp_projekt/images/Picture4.png"></a>
   </div>
 
 <p align="right">(<a href="#readme-top">povratak na vrh</a>)</p>
